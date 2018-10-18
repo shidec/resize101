@@ -15,7 +15,7 @@ actually this project only consists of the following files:
 - 700 (folder containing images)
 - 1040 (folder containing images)
 
-The other files and folder and is additional file because Heroku need composer to activate GD library.
+The other files and folder and is additional file because Heroku need composer to activate GD library for image resizing.
 
 # Method available
 This project show 3 methods, you will just need to choose one of them.
