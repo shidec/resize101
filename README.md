@@ -6,7 +6,7 @@ It is needed by Imagemap message object for LINE messaging API.
 Try it on https://resize101.herokuapp.com/
 
 ### Note
-actually this project consists of the following files:
+actually this project only consists of the following files:
 - .htaccess
 - index.php
 - folder_select.php
