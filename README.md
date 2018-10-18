@@ -3,6 +3,8 @@
 Get multiple size of image depend on the requested URL.
 It is needed by Imagemap message object for LINE messaging API.
 
+Try it on https://resize101.herokuapp.com/
+
 It show 3 methods, you will just need to choose one of them.
 
 ### 1. Htaccess
