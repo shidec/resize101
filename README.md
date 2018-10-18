@@ -1,6 +1,6 @@
 # Resize 101
 
-How to get multiple size image depend on the requested URL.
+Get multiple size of image depend on the requested URL.
 It is needed by Imagemap message object for LINE messaging API.
 
 It show 3 methods, you will just need to choose one of them.
