@@ -5,15 +5,26 @@
   <title>Resize 101</title>
 </head>
 <body>
+<h1>Test it</h1>
 <ol>
 <li>Htaccess<br/>
-	<a href="images/brown/700">images/brown/700</a>
+	<a href="images/brown/460">images/brown/460</a><br/>
+	<a href="images/brown/700">images/brown/700</a><br/>
+	<a href="images/brown/1040">images/brown/1040</a><br/>
+	<i>Size available : 460, 700, 1040</i><br/><br/>
 </li>
 <li>Folder Select<br/>
-	<a href="images/brown/700">folder_select.php/brown/700</a>
+	<a href="folder_select.php/brown/460">folder_select.php/brown/460</a><br/>
+	<a href="folder_select.php/brown/700">folder_select.php/brown/700</a><br/>
+	<a href="folder_select.php/brown/1040">folder_select.php/brown/1040</a><br/>
+	<i>Size available : 460, 700, 1040</i><br/><br/>
 </li>
 <li>Image Resize<br/>
-	<a href="images/brown/700">resize_image.php/brown/700</a>
+	<a href="resize_image.php/brown/200">resize_image.php/brown/200</a><br/>
+	<a href="resize_image.php/brown/300">resize_image.php/brown/300</a><br/>
+	<a href="resize_image.php/brown/500">resize_image.php/brown/500</a><br/>
+	<a href="resize_image.php/brown/700">resize_image.php/brown/700</a><br/>
+	<i>You can change the size to whatever</i><br/><br/>
 </li>
 </ol>
 </body>
