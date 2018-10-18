@@ -5,7 +5,19 @@ It is needed by Imagemap message object for LINE messaging API.
 
 Try it on https://resize101.herokuapp.com/
 
-It show 3 methods, you will just need to choose one of them.
+### Note
+actually this project consists of the following files:
+- .htaccess
+- folder_select.php
+- resize_image.php
+- 460 (folder containing images)
+- 700 (folder containing images)
+- 1040 (folder containing images)
+
+The other files and folder and is additional file because Heroku need composer to activate GD library.
+
+# Method available
+This project show 3 methods, you will just need to choose one of them.
 
 ### 1. Htaccess
 The available image size depends on the existing folder and image
