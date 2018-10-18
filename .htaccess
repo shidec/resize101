@@ -2,7 +2,7 @@
 # BEGIN
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteRule    ^images/([0-9a-z\.]+)/([0-9]+)?$    $2/$1.png    [NC,L]
+RewriteRule    ^images/([0-9a-z]+)/([0-9]+)?$    $2/$1.png    [NC,L]
 #translate     images/brown/700     to            700/brown.png    
 </IfModule>
 
