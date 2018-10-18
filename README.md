@@ -8,6 +8,7 @@ Try it on https://resize101.herokuapp.com/
 ### Note
 actually this project consists of the following files:
 - .htaccess
+- index.php
 - folder_select.php
 - resize_image.php
 - 460 (folder containing images)
