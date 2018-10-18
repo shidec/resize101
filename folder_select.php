@@ -13,4 +13,4 @@ header("Content-Type: image/png");
 header("Content-Length: " . filesize($name));
 
 #Reads a file and writes it to the output buffer
-readfile($name);
+readfile($name); 
