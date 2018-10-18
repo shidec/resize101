@@ -9,6 +9,7 @@ It show 3 methods, you will just need to choose one of them.
 The available image size depends on the existing folder and image
 
 Test url : https://yourdomain/resize/images/brown/700
+
 JSON example for LINE Messaging API:
 ```java
 {
@@ -24,6 +25,7 @@ JSON example for LINE Messaging API:
 The available image size depends on the existing folder and image
 
 Test url : https://yourdomain/resize/folder_select.php/brown/700
+
 JSON example for LINE Messaging API:
 ```java
 {
@@ -41,6 +43,7 @@ This is the most flexible, you can request any image size.
 It use GD library on your PHP server.
 
 Test url : https://yourdomain/resize/resize_image.php/brown/700
+
 JSON example for LINE Messaging API:
 ```java
 {
