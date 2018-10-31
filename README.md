@@ -36,7 +36,7 @@ JSON example for LINE Messaging API:
       "width": 1040
   }
 ```
-### 2. Folder select
+### 2. Folder selection
 The available image size depends on the existing folder and image
 
 Test url : https://yourdomain/folder_select.php/brown/700
@@ -53,7 +53,7 @@ JSON example for LINE Messaging API:
   }
 ```
 
-### 3. Resize image
+### 3. Image resizing
 This is the most flexible, you can request any image size.
 It use GD library on your PHP server.
 
